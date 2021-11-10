@@ -1,5 +1,6 @@
 # Convincely Dev Test
-This challenge requires you to fetch JSON data from a REST API and render the output according to the supplied Figma designs:
+This challenge requires you to fetch JSON data from a REST API and render the output according to the supplied Figma designs.
+You will also add the ability to sort and filter the items by name.
 
 ## Getting started
 Clone this repo locally with:
