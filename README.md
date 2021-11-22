@@ -26,5 +26,3 @@ jhnSIPP46DZsewnkbDgl
 
 Documentation for the endpoint can be found here:
 https://the-one-api.dev/documentation
-
-Both the url and apiToken are included in constants below.
