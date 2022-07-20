@@ -22,7 +22,7 @@ This test uses the following endpoint, which will return a JSON list of all movi
 https://the-one-api.dev/v2/movie
 
 This endpoint is authenticated using this Bearer token:
-jhnSIPP46DZsewnkbDgl
+`5sn22IKN7mtbKyc7N-xo`
 
 Documentation for the endpoint can be found here:
 https://the-one-api.dev/documentation
