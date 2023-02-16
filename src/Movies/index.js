@@ -3,7 +3,7 @@ import axios from "axios";
 // import _ from "lodash";
 
 const url = 'https://the-one-api.dev/v2/movie';
-const apiToken = 'jhnSIPP46DZsewnkbDgl';
+const apiToken = 'SlauvktIL11a0f5QoDXy';
 
 const getMovies = async () => axios.get(url, {
 		headers: {
